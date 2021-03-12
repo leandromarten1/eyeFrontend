@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color:#212529;
+}
+
+.checkout, .menu {
+  margin-bottom: 130px;
+  height: 100%;
+}
+
+.bg-main {
+  background-color: #6f42c1;
+}
